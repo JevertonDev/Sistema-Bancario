@@ -6,11 +6,5 @@ O projeto do Banco Simples em Python é uma aplicação que permite simular as f
 ## :books: Funcionalidades
 * <b>Funcionalidade 1</b>:Você poderar realizar deposito, Realizar 3saques por dia, e ver o extrato da conta.
 
-## :wrench: Tecnologias utilizadas
-* Tecnologia;
-
-## :rocket: Rodando o projeto
-Para rodar o repositório é necessário clonar o mesmo, dar o seguinte comando para iniciar o projeto:
-```
-<linha de comando>
-```
+## :wrench: Linguagem utilizada
+* Tecnologia; Python
